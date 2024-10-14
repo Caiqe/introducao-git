@@ -6,4 +6,10 @@ git add. > adiciona tudo da pasta ao repositório
 
 git commit -m "mensagem do commit" > Faz o commit do versionamento
 
-git push origin main > Envia o versionamento para o github
+git push origin main > Envia o versionamento para o GitHub
+
+************Branch Nova*********************
+
+git branch > mostra todas as branchs
+
+git checkout > sai da branch no git
