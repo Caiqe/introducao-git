@@ -13,3 +13,5 @@ git push origin main > Envia o versionamento para o GitHub
 git branch > mostra todas as branchs
 
 git checkout > sai da branch no git
+
+git checkout -b > cria um nova branch
