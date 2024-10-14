@@ -1,0 +1,9 @@
+git init > criar o repositório local
+
+git remote add origin "link git hub" > Conecta o repositório local com o github
+
+git add. > adiciona tudo da pasta ao repositório
+
+git commit -m "mensagem do commit" > Faz o commit do versionamento
+
+git push origin main > Envia o versionamento para o github
